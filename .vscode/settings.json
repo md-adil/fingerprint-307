@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/adil/.platformio/penv/bin:/Users/adil/.platformio/penv:/Users/adil/.yarn/bin:/Users/adil/.config/yarn/global/node_modules/.bin:/usr/local/opt/openssl/bin:/usr/local/opt/sqlite/bin:/Users/adil/.composer/vendor/bin:/Users/adil/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/opt/go/libexec/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
